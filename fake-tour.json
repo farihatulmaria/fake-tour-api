@@ -22,5 +22,11 @@
     "name": "Taj Mahal , India",
     "ticketPrice": 1000,
     "img": "https://i.pinimg.com/564x/6f/36/bf/6f36bf8a037bc5194303065838840f6d.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Sazova Castle",
+    "ticketPrice": 1000,
+    "img": "https://i.pinimg.com/564x/a7/07/18/a7071820e015c47f3a80f59c016e57d5.jpg"
   }
 ]
