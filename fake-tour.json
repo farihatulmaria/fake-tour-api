@@ -3,24 +3,24 @@
     "id": 1,
     "name": "Lalbagh Kella",
     "ticketPrice": 200,
-    "img": "/img/lalbagh-kella.jpg"
+    "img": "https://i.pinimg.com/564x/4e/bd/f0/4ebdf062d34fd16210ce18f5546f279c.jpg"
   },
   {
     "id": 2,
     "name": "Folk art museum in Sonargaon, Bangladesh",
     "ticketPrice": 100,
-    "img": "/img/Folk-art-museum.jpg"
+    "img": "https://i.pinimg.com/564x/00/57/67/0057671668035fa9ea348160997c9214.jpg"
   },
   {
     "id": 3,
     "name": "Rome",
     "ticketPrice": 10000,
-    "img": "/img/rome.jpg"
+    "img": "https://i.pinimg.com/564x/ae/c7/19/aec71902aee7751bd3da126b1298b76d.jpg"
   },
   {
     "id": 4,
     "name": "Taj Mahal , India",
-    "ticketPrice": 100,
-    "img": "/img/taj-mahal.jpg"
+    "ticketPrice": 1000,
+    "img": "https://i.pinimg.com/564x/6f/36/bf/6f36bf8a037bc5194303065838840f6d.jpg"
   }
 ]
