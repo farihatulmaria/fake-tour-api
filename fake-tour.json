@@ -28,5 +28,11 @@
     "name": "Sazova Castle",
     "ticketPrice": 1000,
     "img": "https://i.pinimg.com/564x/a7/07/18/a7071820e015c47f3a80f59c016e57d5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Madurai Meenakshi Amman Temple",
+    "ticketPrice": 500,
+    "img": "https://i.pinimg.com/564x/cf/d5/be/cfd5bedbc3a5760e803a96a5b570ace4.jpg"
   }
 ]
