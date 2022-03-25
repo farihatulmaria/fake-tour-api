@@ -10,5 +10,17 @@
     "name": "Folk art museum in Sonargaon, Bangladesh",
     "ticketPrice": 100,
     "img": "/img/Folk-art-museum.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Rome",
+    "ticketPrice": 10000,
+    "img": "/img/rome.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Taj Mahal , India",
+    "ticketPrice": 100,
+    "img": "/img/taj-mahal.jpg"
   }
 ]
