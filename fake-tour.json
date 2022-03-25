@@ -3,6 +3,12 @@
     "id": 1,
     "name": "Lalbagh Kella",
     "ticket-price": 200,
-    "img": "/img/lalbagh-kella.png"
+    "img": "/img/lalbagh-kella.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Folk art museum in Sonargaon, Bangladesh",
+    "ticket-price": 100,
+    "img": "/img/Folk-art-museum.jpg"
   }
 ]
