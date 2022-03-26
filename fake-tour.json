@@ -34,5 +34,23 @@
     "name": "Madurai Meenakshi Amman Temple",
     "ticketPrice": 500,
     "img": "https://i.pinimg.com/564x/cf/d5/be/cfd5bedbc3a5760e803a96a5b570ace4.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Amer Fort, Jaipur",
+    "ticketPrice": 200,
+    "img": "https://i.pinimg.com/564x/fa/58/86/fa5886ab4af1c3925587516dd030f6ca.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Gadisar Lake",
+    "ticketPrice": 400,
+    "img": "https://i.pinimg.com/564x/81/6d/f3/816df3b870a765f97d1dca283f4f2188.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Qutub Minar",
+    "ticketPrice": 300,
+    "img": "https://i.pinimg.com/564x/13/20/6c/13206ce8b6836d735d2d3a639fe7d592.jpg"
   }
 ]
